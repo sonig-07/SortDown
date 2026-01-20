@@ -30,6 +30,8 @@ python cli/main.py preview "<file-path>"
 
 <img width="1920" height="1020" alt="Screenshot 2026-01-20 231739" src="https://github.com/user-attachments/assets/d4c361d6-5072-45fa-bc4b-4e43f89ce045" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f8d4c3f-ca14-47b6-87c9-b6ee2113f131" />
+<img width="1097" height="680" alt="image" src="https://github.com/user-attachments/assets/35fcd259-a68c-4500-9bd2-a8900d401589" />
+
 
 
 ## Author
