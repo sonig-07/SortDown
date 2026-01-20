@@ -23,3 +23,16 @@ python cli/main.py undo
 python cli/main.py clean-duplicates --path "<folder-path>"
 python cli/main.py search --path "<folder-path>" <keyword>
 python cli/main.py preview "<file-path>"
+
+```
+
+## Screenshots
+
+<img width="1920" height="1020" alt="Screenshot 2026-01-20 231739" src="https://github.com/user-attachments/assets/d4c361d6-5072-45fa-bc4b-4e43f89ce045" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f8d4c3f-ca14-47b6-87c9-b6ee2113f131" />
+
+
+## Author
+
+SoniG07
+[https://github.com/sonig-07](https://github.com/sonig-07) 
